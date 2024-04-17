@@ -1,1 +1,1 @@
-Static Site Generator from boot.dev](boot.dev)
+Static Site Generator from [boot.dev](boot.dev)
